@@ -19,6 +19,10 @@ body {
   box-shadow:10px 10px 10px #F5B7B1  ;
  
 }
+.logo_img{
+  height:125px;
+  width:100px;
+}
 .call{
   font-size:20px;
 }
@@ -125,6 +129,10 @@ h1, h2, h3, h4, h5, h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+  .logo_img{
+    height:80px;
+    width:80px;
+}
 }
 
 /*--------------------------------------------------------------
